@@ -2,6 +2,9 @@
 
 MarketNest is a small, runnable MERN-stack retail storefront created as a research-project prototype. It demonstrates a React storefront, an Express REST API, MongoDB persistence, bearer-token authentication, order creation, containerized local infrastructure, and a CI workflow.
 
+#Live Link
+https://jolly-water-01c715d00.6.azurestaticapps.net/#
+
 ## Requirements
 
 - Node.js 20 or newer and npm
