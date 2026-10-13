@@ -2,10 +2,6 @@
 
 MarketNest is a small, runnable MERN-stack retail storefront created as a research-project prototype. It demonstrates a React storefront, an Express REST API, MongoDB persistence, bearer-token authentication, order creation, containerized local infrastructure, and a CI workflow.
 
-## Access WebApp Here:
-
-https://jolly-water-01c715d00.6.azurestaticapps.net/#
-
 ## Requirements
 
 - Node.js 20 or newer and npm
@@ -74,3 +70,11 @@ The frontend is public. Use demo-only credentials, do not collect real payment d
 - [`research/evaluation.md`](research/evaluation.md) contains reproducible evaluation steps and blank result tables. No load-test or performance result is claimed until you run and record it.
 
 The institution's instructions require human-authored submission text. Treat the research files as prompts and factual notes, not as a finished paper; write the final prose yourself and cite the sources you actually consult.
+
+## Access WebApp Here:
+
+https://jolly-water-01c715d00.6.azurestaticapps.net/#
+
+## Screenshot
+
+<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/0aab22cd-0ea5-49b8-a36f-e24b1551e11f" />
