@@ -71,7 +71,7 @@ The frontend is public. Use demo-only credentials, do not collect real payment d
 
 The institution's instructions require human-authored submission text. Treat the research files as prompts and factual notes, not as a finished paper; write the final prose yourself and cite the sources you actually consult.
 
-## Access WebApp Here:
+## Access WebApp Here
 
 https://jolly-water-01c715d00.6.azurestaticapps.net/#
 
